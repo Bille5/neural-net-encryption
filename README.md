@@ -6,7 +6,7 @@ The original Windows version is included in the `windows-specific-version` folde
 
 **How to Run**
 
-Download and run the .exe in windows!
+Download and run neural_network_encryption.exe in a console
 
 
 
