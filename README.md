@@ -6,6 +6,13 @@ The original Windows version is included in the `windows-specific-version` folde
 
 **How to Run**
 
+Download and run the .exe in windows!
+
+
+
+
+or:
+
 Open the project folder in an IDE (I use CLion).
 
 Build and run the `neural_network_encryption` target.
